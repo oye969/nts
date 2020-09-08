@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+.App {
+  text-align: center;
+  background-color: black;
+  font-family: 'Nunito', sans-serif;
+
+}
+.Slider {
+ display: flex;
+ justify-content: space-around;
+ margin: 0 auto;
+ width:1990px;
+ margin-bottom: 20px;
+
+}
+.SliderContainer {
+padding-top: 20px;
+margin-top: 30px;
+
+}
+img {
+border: 3px solid white; 
+margin-top: 25px;
+margin-bottom: 20px;
+
+}
+.SliderA {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  width:1990px;
+  margin-top: 20px;
+
+}
+.SliderC {
+  border: 3px solid white; 
+  margin-top: 5px;
+
+}
+.HeaderContainer {
+ color:  #fff;
+ 
+}
+ul, li, a {
+  list-style: none;
+  display: inline-block;
+  font-size: 24px;
+  text-decoration: none;
+  color:  #fff;
+  margin: 30px;
+}
+
+hr {
+  height: 0.3px;
+  background-color: #fff;
+
+}
+li a {
+    transition: all 0.3s ease 0s;
+}
+li a:hover {
+    color: #a1a1a1;
+}
+.logo {
+  float: left;
+  margin-left: 20px;
+}
+.Mixtapes {
+ 
+  margin: 0 auto;
+  width:1800px;
+ 
+}
+.Mixtape-Div {
+  margin-bottom: 20px;
+}
+.logob {
+  margin: 15px;
+}
+.logob:hover {
+  margin: 15px;
+  transition: all 1s ease;
+  opacity: 0.6;
+
+}
+.logoc {
+  margin: 9px;
+}
+.logoc:hover {
+  transition: all 1s ease;
+  opacity: 0.6;
+}
+.News-Div {
+  margin-top: 65px;
+}
